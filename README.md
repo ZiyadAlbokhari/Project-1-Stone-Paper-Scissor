@@ -23,4 +23,4 @@ A classic **Stone-Paper-Scissor** game developed in C++! This project was built 
 3. Press `Ctrl + F5` to run and enjoy!
 
 ---
-**A practical project from the Programming Roadmap (Course 5).** 👨‍💻
+**A practical project from the Programming Roadmap (Course 5). and the first project in the course.** 👨‍💻
